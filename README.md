@@ -1,5 +1,5 @@
 ## WARNİNG ##
-This is a fun program, don't use it for malicious purposes.
+##This is a fun program, don't use it for malicious purposes. :D ##
 
 ## PAY OR DİE ##
 
